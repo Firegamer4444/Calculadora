@@ -14,6 +14,7 @@
     <maven.compiler.target>22</maven.compiler.target>
     <maven.compiler.source>22</maven.compiler.source>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <exec.mainClass>dad.calculadora.Main</exec.mainClass>
   </properties>
 
   <dependencies>
